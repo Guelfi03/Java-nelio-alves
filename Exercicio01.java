@@ -2,7 +2,7 @@ package java_nelio_alves;
 
 import java.util.Locale;
 
-public class Main {
+public class Exercicio01 {
 
 	public static void main(String[] args) {
 		/* %f = ponto flutuante
