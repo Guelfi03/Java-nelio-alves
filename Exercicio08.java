@@ -19,11 +19,12 @@ public class Exercicio08 {
 		if (num > 0){
 			System.out.print("O número digitado é positivo");
 					}
-		else 
+		else if (num < 0) {
 			System.out.print("O número digitado é negativo");
-		
+			
+		} else { 
+			System.out.print("O número digitado foi zero");
+			}
 		
 		teclado.close();
 	}
-
-}
